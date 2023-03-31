@@ -1,2 +1,1 @@
 require("huskyroll")
-print("Hello")

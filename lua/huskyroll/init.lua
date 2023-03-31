@@ -1,2 +1,2 @@
 require("huskyroll.remap")
-print("Hello from Huskyroll")
+require("huskyroll.set")
